@@ -1,0 +1,16 @@
+.listPonts {
+    margin-bottom: auto;
+    font-size: 18px;
+    line-height: 2.5;
+    margin-left: 10%;
+    box-shadow: 1px -4px 5px 2px #cacaca;
+    border-radius: 5px;
+}
+
+.listPoint__work {
+    list-style-type: none;
+}
+
+.listPonts__hobby {
+    list-style: square;
+}

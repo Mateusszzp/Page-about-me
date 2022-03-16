@@ -1,0 +1,7 @@
+.article {
+    line-height: 3.5;
+    font-size: 18px;
+    text-align: center;
+    box-shadow: 1px -4px 5px 2px #cacaca;
+    border-radius: 5px;
+}

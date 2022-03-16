@@ -1,0 +1,30 @@
+.table__film {
+    border-collapse: collapse;
+    box-shadow: 7px -5px 18px -1px rgba(255, 180, 3, 1);
+    max-width: 0%;
+    margin: auto;
+    line-height: 18px;
+    max-width: 400px;
+    width: 80%;
+}
+
+.table_Cell {
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.table_Row {
+    background-color: rgb(255, 180, 3, 1);
+}
+
+.table_Row:nth-child(even) {
+    background: #ebe5e5;
+}
+
+.table_Row:hover {
+    background-color: #ccc;
+}
+
+.table {
+    overflow-x: auto;
+}

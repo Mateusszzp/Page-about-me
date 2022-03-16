@@ -1,0 +1,42 @@
+body {
+    font-family: 'Lato', sans-serif;
+
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.footerDawn {
+    background: #ffb403;
+    text-align: center;
+    margin: 10px 10px;
+    max-width: 200em;
+    box-shadow: 9px -4px 9px -1px #cacaca;
+    border-radius: 5px;
+}
+
+.js-background {
+    background-color: none;
+    margin: 30px;
+    max-width: auto;
+
+}
+
+.theme {
+    background-color: #f4f2d2;
+}
+
+.button {
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 9px -4px 9px -1px #cacaca;
+}
+
+.button:hover {
+    background-color: #cacaca;
+}

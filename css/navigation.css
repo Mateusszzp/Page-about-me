@@ -1,0 +1,22 @@
+.navigation {
+    background: #ffb403;
+    text-align: right;
+    border-radius: 5px;
+    box-shadow: 9px -4px 9px -1px #cacaca;
+}
+
+.navigation__link {
+    width: 100%;
+    padding: 10px;
+    margin: 0;
+    display: inline;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+.navigation__link:hover {
+    color: black;
+    border-bottom: 1px solid;
+    outline: none;
+}
