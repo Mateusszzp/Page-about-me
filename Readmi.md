@@ -8,10 +8,16 @@
 https://mateusszzp.github.io/Page-about-me/
 
 
-### Opis
-Praca wykonana w ramach szkolenia YouCode na rogramiste Frontend Developer.
+### Description
+Work done as part of the YouCode training for rogramiste Frontend Developer.
 
 #### W pracy zostało zawarte
-- Html- według konwencji BEM
-- css- kilka kontenerów
-- js- TENERY-akcja zmieniająca tło na stronie  
+- Html - according to the BEM convention
+- css- several containers
+- JavaScript- TENERS-action changing the background on the page
+- Flex Box
+- ES6
+##### Site overview
+![Site overview](images/Animation.gif)
+##### Site overview
+![Site overview part 2 html,css,JS](images/Animation2.gif)
