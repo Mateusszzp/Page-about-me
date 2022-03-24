@@ -7,7 +7,6 @@ button.addEventListener("click", () => {
     background.classList.toggle("theme");
 
     buttonName.innerText = background.classList.contains("theme")
-        ? "Wyłącz ten motyw"
-        : "Włącz inny motyw";
-
+        ? "Wyłącz jasny motyw"
+        : "Włącz ciemny motyw";
 });

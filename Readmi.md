@@ -16,8 +16,6 @@ Work done as part of the YouCode training for rogramiste Frontend Developer.
 - css- several containers
 - JavaScript- TENERS-action changing the background on the page
 - Flex Box
-- ES6
+- ES6+
 ##### Site overview
 ![Site overview](images/Animation.gif)
-##### Site overview
-![Site overview part 2 html,css,JS](images/Animation2.gif)
