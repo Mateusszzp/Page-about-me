@@ -9,7 +9,7 @@ https://mateusszzp.github.io/Page-about-me/
 
 
 ### Description
-Work done as part of the YouCode training for rogramiste Frontend Developer.
+Work done as part of the YouCode training for programiste Frontend Developer.
 
 #### W pracy zostało zawarte
 - Html - according to the BEM convention
