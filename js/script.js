@@ -1,12 +1,25 @@
-console.log("Witam wszystkich developerów")
-let button = document.querySelector(".js-button");
-let background = document.querySelector(".js-background");
-let buttonName = document.querySelector(".js-buttonName")
+{
+    const welcome = () => {
+        console.log("Witam wszystkich developerów")
+    }
 
-button.addEventListener("click", () => {
-    background.classList.toggle("theme");
 
-    buttonName.innerText = background.classList.contains("theme")
-        ? "Wyłącz jasny motyw"
-        : "Włącz ciemny motyw";
-});
+    const toggleBackground = () => {
+        const background = document.querySelector(".js-background");
+        const buttonName = document.querySelector(".js-buttonName");
+
+        background.classList.toggle("theme");
+        buttonName.innerText = background.classList.contains("theme")
+            ? "Wyłącz biały motyw"
+            : "Włącz żółty motyw";
+
+    };
+    
+    const init = () => {
+        const changeBackgroundButton = document.querySelector(".js-changeBackgroundButton");
+        changeBackgroundButton.addEventListener("click", toggleBackground);
+        welcome();
+    };
+    
+    init()
+}
